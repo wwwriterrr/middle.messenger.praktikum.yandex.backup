@@ -1,0 +1,1 @@
+export {NavigatePage} from './nav'
