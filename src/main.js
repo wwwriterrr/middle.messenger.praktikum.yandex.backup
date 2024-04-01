@@ -19,11 +19,13 @@ const chats = [
   {id: 5, avatar: '/src/assets/img/av5.jpg', name: 'Gosling', msg: 'Remark impossible indeed quitting plan appearance.', date: '21.03.2019'},
 ]
 const pages = {
-  'login': [ Pages.LoginPage, {} ],
+  'login': [ Pages.LoginPage ],
   'registrate': [ Pages.RegPage ],
   'chat': [ Pages.ChatPage, {chats: chats} ],
   'profile': [ Pages.ProfilePage, user_data ],
-  'nav': [ Pages.NavigatePage, {pages: ['login', 'registrate', 'chat', 'profile']} ],
+  'nav': [ Pages.NavigatePage, {pages: ['login', 'registrate', 'chat', 'profile', 'Change Password']} ],
+
+  'Change Password': [ Components.Modal, {title: 'Change password', content: Pages.ModalChangePasswd} ],
 };
 
 Object.entries(Components).forEach(([ name, component ]) => {
