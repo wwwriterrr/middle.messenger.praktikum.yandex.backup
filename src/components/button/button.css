@@ -1,1 +1,2 @@
-.button{}
+.button{position: relative;height: 40px;background-color: transparent;border: 1px solid #e3e3e3;border-radius: 6px;}
+.button_action{background-color: var(--action-color);color: var(--action-font);border: 0;}

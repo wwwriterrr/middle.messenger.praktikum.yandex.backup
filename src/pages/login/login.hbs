@@ -1,9 +1,9 @@
-<div class="container">
-    <Form class="login-form">
-        {{> Input label="Login" }}
-        {{> Input label="Password" }}
-        {{> Button label="Sign in" type="primary" }}
+<div class="form__wrap">
+    <Form class="form__login">
+        <h1 class="form__title">Login in chat</h1>
+        {{> Input label="Login" type="text" name="login" }}
+        {{> Input label="Password" type="password" name="password" }}
+        {{> Button label="Sign in" type="primary" mode="action" }}
         {{> Button label="Sign up" type="link" }}
-        {{test}}
     </Form>
 </div>

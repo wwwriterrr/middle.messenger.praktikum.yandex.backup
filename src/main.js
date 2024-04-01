@@ -32,3 +32,8 @@ document.addEventListener('click', e => {
     e.stopImmediatePropagation();
   }
 });
+
+document.addEventListener('submit', e => {
+  e.preventDefault();
+  e.stopImmediatePropagation();
+})

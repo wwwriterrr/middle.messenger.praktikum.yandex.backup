@@ -5,18 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14d788ec-b20b-4d7c-9025-b1a21978658e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/button/button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/button/button.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/input/input.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/input/input.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/login/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/login/login.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/button/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/button/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/input/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/input/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/login/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/login/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/nav/nav.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/nav/nav.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/button/button.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/button/button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/button/button.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/button/button.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/input/input.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/input/input.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/input/input.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/input/input.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/login/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/login/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/login/login.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/login/login.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711577118173</updated>
       <workItem from="1711914720509" duration="1011000" />
-      <workItem from="1711950711227" duration="2910000" />
+      <workItem from="1711950711227" duration="5498000" />
     </task>
     <task id="LOCAL-00001" summary="Create directory and files">
       <option name="closed" value="true" />
@@ -110,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711953237729</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Create directory and files">
+      <created>1711953675267</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711953675267</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
