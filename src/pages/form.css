@@ -1,4 +1,4 @@
-.form__wrap{position: relative;width: calc(100% - 40px);max-width: 340px;padding: 20px;margin: 0 auto;border-radius: 6px;border: 1px solid #e3e3e3; background-color: #fff;box-shadow: 0 4px 10px 0px #00000024;}
+.form__wrap{position: relative;width: calc(100% - 40px);max-width: 340px;padding: 34px 20px;margin: 0 auto;border-radius: 6px;border: 1px solid #e3e3e3; background-color: #fff;box-shadow: 0 4px 10px 0px #00000024;}
 .form__title{grid-column-end: span 2;margin: 0 0 10px 0;text-align: center;}
 .form__wrap .button{margin: 20px 0 0 0;}
 .form__login .input{grid-column-end: span 2;}

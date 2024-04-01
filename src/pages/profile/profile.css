@@ -1,0 +1,6 @@
+.profile__wrap{width: 500px;margin: 0 auto;}
+.avatar__wrap{}
+.avatar__element{}
+.avatar__image{}
+.profile__name{}
+.profile__rows{display: flex;flex-direction: column;}
