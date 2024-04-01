@@ -5,21 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14d788ec-b20b-4d7c-9025-b1a21978658e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/img/send.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/chat_item/chat_item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/chat_item/chat_item.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/chat_item/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/chats_list/chats_list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/chats_list/chats_list.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/chats_list/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/chat_item/chat_item.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/chat_item/chat_item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/chat_item/chat_item.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/chat_item/chat_item.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/chat/chat.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/chat/chat.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/chat/chat.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/chat/chat.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/chat/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/chat/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/profile/profile.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/profile/profile.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711577118173</updated>
       <workItem from="1711914720509" duration="1011000" />
-      <workItem from="1711950711227" duration="29073000" />
+      <workItem from="1711950711227" duration="31040000" />
     </task>
     <task id="LOCAL-00001" summary="Create directory and files">
       <option name="closed" value="true" />
@@ -199,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711979545774</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Files changes">
+      <created>1711983836584</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1711983836585</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -12,11 +12,11 @@ const user_data = {
   phone: '+1 (321) 223-223',
 }
 const chats = [
-  {avatar: '/src/assets/img/batman.svg', name: 'Batman', msg: 'Test 1', date: '12:10'},
-  {avatar: '/src/assets/img/batman.svg', name: 'Batman', msg: 'Test 2', date: 'ystd'},
-  {avatar: '/src/assets/img/batman.svg', name: 'Batman', msg: 'Test 3', date: 'md', count: 4},
-  {avatar: '/src/assets/img/batman.svg', name: 'Batman', msg: 'Test 4', date: '10.01 2021'},
-  {avatar: '/src/assets/img/batman.svg', name: 'Batman', msg: 'Test 5', date: '21.03.2019'},
+  {id: 1, avatar: '/src/assets/img/batman.svg', name: 'Batman', msg: 'Stuff sooner subjects indulgence forty child theirs unpleasing supported projecting certain.', date: '12:10', count: 4},
+  {id: 2, avatar: '/src/assets/img/batman.svg', name: 'Robin', msg: 'Up above afford furniture worse. Them dine position warrant expense he.', date: 'yda'},
+  {id: 3, avatar: '/src/assets/img/batman.svg', name: 'Pacman', msg: 'Welcomed result continued remainder endeavor tastes rank quit. ', date: 'md', count: '99+'},
+  {id: 4, avatar: '/src/assets/img/batman.svg', name: 'Rastaman', msg: 'Ready attention inquietude must differed.', date: '10.01 2021'},
+  {id: 5, avatar: '/src/assets/img/batman.svg', name: 'Gosling', msg: 'Remark impossible indeed quitting plan appearance.', date: '21.03.2019'},
 ]
 const pages = {
   'login': [ Pages.LoginPage, {} ],
@@ -42,6 +42,16 @@ const page_init = () => {
       if(input.type === 'password') setTimeout(()=>input_blur(input), 100);
       else input_blur(input);
       input.addEventListener('blur', () => input_blur(input));
+    })
+  }
+
+  const chats = document.querySelectorAll('[chat]');
+  if(chats.length !== 0){
+    chats.forEach(item => {
+      item.addEventListener('click', e => {
+        e.preventDefault();
+        e.stopImmediatePropagation();
+      })
     })
   }
 }
