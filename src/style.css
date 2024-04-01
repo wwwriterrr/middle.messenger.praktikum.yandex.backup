@@ -12,7 +12,7 @@ body{margin: 0;padding: 0;font-size: 16px;font-family: var(--main-font);font-wei
 
 h1, h2, h3{margin: 0;padding: 0;font-size: 1.1em;font-weight: 500;}
 button, input[type=button]{border: 0;margin: 0;padding: 0;background-color: transparent;cursor: pointer;font-family: var(--main-font);font-weight: 300;font-size: 16px;}
-button, input, textarea{font-family: var(--main-font);font-weight: 300;font-size: 16px;}
+button, input, textarea{font-family: var(--main-font);font-weight: 300;font-size: 16px;border: 0;}
 input:-webkit-autofill {-webkit-box-shadow: 0 0 0 1000px white inset !important;}
 a{text-decoration: none;color: var(--action-color);font-weight: 500;}
 ul, li{list-style: none;margin: 0;padding: 0;}

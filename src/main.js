@@ -3,11 +3,27 @@ import * as Components from './components';
 import * as Pages from './pages';
 
 
+const user_data = {
+  nickname: 'Rocky',
+  login: 'rocky',
+  email: 'test@mail.com',
+  first_name: 'John',
+  last_name: 'Doe',
+  phone: '+1 (321) 223-223',
+}
+const chats = [
+  {avatar: '/src/assets/img/batman.svg', name: 'Batman', msg: 'Test 1', date: '12:10'},
+  {avatar: '/src/assets/img/batman.svg', name: 'Batman', msg: 'Test 2', date: 'ystd'},
+  {avatar: '/src/assets/img/batman.svg', name: 'Batman', msg: 'Test 3', date: 'md', count: 4},
+  {avatar: '/src/assets/img/batman.svg', name: 'Batman', msg: 'Test 4', date: '10.01 2021'},
+  {avatar: '/src/assets/img/batman.svg', name: 'Batman', msg: 'Test 5', date: '21.03.2019'},
+]
 const pages = {
   'login': [ Pages.LoginPage, {} ],
   'registrate': [ Pages.RegPage ],
-  'profile': [ Pages.ProfilePage, {nickname: 'Rocky'} ],
-  'nav': [ Pages.NavigatePage, {pages: ['login', 'registrate', 'profile']} ],
+  'chat': [ Pages.ChatPage, {chats: chats} ],
+  'profile': [ Pages.ProfilePage, user_data ],
+  'nav': [ Pages.NavigatePage, {pages: ['login', 'registrate', 'chat', 'profile']} ],
 };
 
 Object.entries(Components).forEach(([ name, component ]) => {

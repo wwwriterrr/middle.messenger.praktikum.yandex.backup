@@ -1,0 +1,13 @@
+.chat-page{position: relative;width: 100%;height: 100vh;overflow: hidden; display: grid;
+    grid-template: 'side header' 60px 'side messages' 1fr 'side form' auto / 400px 1fr;}
+.chat__side{grid-area: side;position: relative; display: grid;grid-template: 'head' auto 'chats' 1fr / 100%; border-right: 1px solid #e3e3e3;}
+.chats-list{height: 100%;overflow: auto;}
+.chat__header{grid-area: header;position: relative;border-bottom: 1px solid #e3e3e3;}
+.chat__messages{grid-area: messages;position: relative;}
+.chat__form-wrap{grid-area: form;position: relative;display: flex;justify-content: center; border-top: 1px solid #e3e3e3;}
+.chat__form{position: relative;display: grid;grid-template: auto / 40px 1fr 40px;align-items: center;grid-gap: 0 10px; padding: 10px 20px;width: 600px;}
+.chat__form-avatar-wrap{position: relative;aspect-ratio: 1/1;border-radius: 50%;overflow: hidden;}
+.chat__form-avatar{width: 100%;height: 100%;}
+.chat__message{height: 50px;padding: 0 16px;border-radius: 25px; background-color: #e3e3e3;}
+.chat__form-submit{position: relative;aspect-ratio: 1/1;padding: 6px; border-radius: 50%;background-color: var(--action-color);}
+.chat__form-submit::before{content: url('/src/assets/img/send.svg');display: block;width: 100%;height: 100%;}

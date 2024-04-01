@@ -1,0 +1,26 @@
+<div class="chat-page">
+    <div class="chat__side">
+        <div class="chat__side-head">
+            {{> Button label="Profile" classes="button_nofill" }}
+            <label class="chat__search-wrap">
+                <input class="chat__search-input" type="text" placeholder="Search" >
+            </label>
+        </div>
+        <div class="chats-list">
+            {{> ChatsList chats=chats }}
+        </div>
+    </div>
+    <div class="chat__header">
+        <!-- Chat info there -->
+    </div>
+    <div class="chat__messages">
+        <!-- messages there -->
+    </div>
+    <div class="chat__form-wrap">
+        <form class="chat__form">
+            <div class="chat__form-avatar-wrap"><img class="chat__form-avatar" src="/src/assets/img/batman.svg" alt=""></div>
+            <input class="chat__message" type="text" name="message" placeholder="Your message" spellcheck="false">
+            <button class="chat__form-submit" type="submit"></button>
+        </form>
+    </div>
+</div>
