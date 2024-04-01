@@ -1,12 +1,15 @@
 <div class="page page_center">
-    <div class="form__wrap">
+    <div class="form__wrap page__inner">
         <Form class="form__registrate">
             <h1 class="form__title">Sign Up in chat</h1>
             {{> Input label="Login" type="text" name="login" }}
             {{> Input label="Email" type="text" name="email" }}
             {{> Input label="Password" type="password" name="password" }}
             {{> Input label="Retype password" type="password" name="retype-password" }}
-            {{> Button label="Sign up" type="link" mode="action" }}
+            <div class="form__row form__row_2col form__row_margin-top">
+                {{> Button label="Sign up" type="link" mode="action" }}
+                {{> Button label="Sign In" type="link" page="login" }}
+            </div>
         </Form>
     </div>
 </div>
