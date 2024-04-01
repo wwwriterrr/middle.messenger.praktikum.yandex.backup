@@ -2,3 +2,6 @@
 .button_action{background-color: var(--action-color);color: var(--action-font);border: 0;font-weight: 400;}
 .button_nofill{height: auto;padding: 2px 4px;background-color: transparent;color: var(--action-color);font-weight: 500;border: 0;}
 .button_red{color: var(--red-color);}
+.button-greytext{color: #444;}
+.button-prof-left{}
+.button-prof-left::before{content: url('/src/assets/img/profile.svg');display: inline-block;width: 14px;height: 14px;margin: 0 4px 0 0;}
