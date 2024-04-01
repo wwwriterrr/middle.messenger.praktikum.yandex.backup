@@ -3,9 +3,17 @@
   "version": "1.0.0",
   "description": "Yandex Praktikum project",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "author": "wwwriterrr",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.8",
+    "vite": "^5.2.7",
+    "vite-plugin-handlebars": "^2.0.0"
+  }
 }
