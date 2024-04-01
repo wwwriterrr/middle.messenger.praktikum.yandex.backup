@@ -4,3 +4,5 @@
 .input__label{position: absolute;left: 8px;top: 0;transform: translateY(32px);transition: transform .2s ease-out;}
 .input__element:focus + .input__label,
 .input__element_filled + .input__label{transform: translateY(0px) translateX(-2px) scale(.8);}
+.input__error{color: #a82b2b;padding: 0 0 0 6px;margin: 4px 0 0 0;}
+.input__error:empty{margin: 0;}
