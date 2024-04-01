@@ -6,7 +6,7 @@ import * as Pages from './pages';
 const pages = {
   'login': [ Pages.LoginPage, {} ],
   'registrate': [ Pages.RegPage ],
-  'profile': [ Pages.ProfilePage ],
+  'profile': [ Pages.ProfilePage, {nickname: 'Rocky'} ],
   'nav': [ Pages.NavigatePage, {pages: ['login', 'registrate', 'profile']} ],
 };
 

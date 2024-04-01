@@ -1,16 +1,18 @@
 <div class="page__profile profile__wrap">
     <div class="avatar__wrap">
-        <div class="avatar__element">
-            <img class="avatar__image" src="" alt="">
+        <div class="avatar__element {{#unless avatar }}avatar__element_notset{{/unless}}">
+            <img class="avatar__image" src="{{#if avatar }}{{avatar}}{{else}}/src/assets/img/batman.svg{{/if}}" alt="">
+            <button class="avatar__button" page="nav"></button>
         </div>
     </div>
-    <div class="profile__name"></div>
+    <div class="profile__name">{{nickname}}</div>
     <div class="profile__rows">
         {{> ProfileRow label="Email" type="text" name="email" value="test@example.com" }}
         {{> ProfileRow label="Login in chat" type="text" name="login" value="johny" }}
         {{> ProfileRow label="First name" type="text" name="first_name" value="John" }}
         {{> ProfileRow label="Last name" type="text" name="last_name" value="Doe" }}
-        {{> ProfileRow label="Nick name" type="text" name="nick_name" value="Rocker" error="This username is already occupied" }}
+        {{> ProfileRow label="Nick name" type="text" name="nick_name" value=nickname error="This username is already occupied" }}
+        {{> ProfileRow label="Phone" type="text" name="phone" value="+7 (999) 123-45-67" }}
         <div class="profile__manage">
             {{> Button label="Save" style="display: none;" }}
             {{> Button label="Change password" classes="button_nofill" }}
