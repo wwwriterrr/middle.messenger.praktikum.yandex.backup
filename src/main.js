@@ -12,11 +12,11 @@ const user_data = {
   phone: '+1 (321) 223-223',
 }
 const chats = [
-  {id: 1, avatar: '/src/assets/img/batman.svg', name: 'Batman', msg: 'Stuff sooner subjects indulgence forty child theirs unpleasing supported projecting certain.', date: '12:10', count: 4},
-  {id: 2, avatar: '/src/assets/img/batman.svg', name: 'Robin', msg: 'Up above afford furniture worse. Them dine position warrant expense he.', date: 'yda'},
-  {id: 3, avatar: '/src/assets/img/batman.svg', name: 'Pacman', msg: 'Welcomed result continued remainder endeavor tastes rank quit. ', date: 'md', count: '99+'},
-  {id: 4, avatar: '/src/assets/img/batman.svg', name: 'Rastaman', msg: 'Ready attention inquietude must differed.', date: '10.01 2021'},
-  {id: 5, avatar: '/src/assets/img/batman.svg', name: 'Gosling', msg: 'Remark impossible indeed quitting plan appearance.', date: '21.03.2019'},
+  {id: 1, avatar: '/src/assets/img/av1.jpg', name: 'Batman', msg: 'Stuff sooner subjects indulgence forty child theirs unpleasing supported projecting certain.', date: '12:10', count: 4},
+  {id: 2, avatar: '/src/assets/img/av2.jpg', name: 'Robin', msg: 'Up above afford furniture worse. Them dine position warrant expense he.', date: 'yda'},
+  {id: 3, avatar: '/src/assets/img/av3.jpg', name: 'Pacman', msg: 'Welcomed result continued remainder endeavor tastes rank quit. ', date: 'md', count: '99+'},
+  {id: 4, avatar: '/src/assets/img/av4.jpg', name: 'Rastaman', msg: 'Ready attention inquietude must differed.', date: '10.01 2021'},
+  {id: 5, avatar: '/src/assets/img/av5.jpg', name: 'Gosling', msg: 'Remark impossible indeed quitting plan appearance.', date: '21.03.2019'},
 ]
 const pages = {
   'login': [ Pages.LoginPage, {} ],
