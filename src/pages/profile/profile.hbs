@@ -10,6 +10,11 @@
         {{> ProfileRow label="Login in chat" type="text" name="login" value="johny" }}
         {{> ProfileRow label="First name" type="text" name="first_name" value="John" }}
         {{> ProfileRow label="Last name" type="text" name="last_name" value="Doe" }}
-        {{> ProfileRow label="Nick name" type="text" name="nick_name" value="Rocker" }}
+        {{> ProfileRow label="Nick name" type="text" name="nick_name" value="Rocker" error="This username is already occupied" }}
+        <div class="profile__manage">
+            {{> Button label="Save" style="display: none;" }}
+            {{> Button label="Change password" classes="button_nofill" }}
+            {{> Button label="Logout" classes="button_nofill button_red" page="nav" }}
+        </div>
     </div>
 </div>

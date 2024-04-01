@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14d788ec-b20b-4d7c-9025-b1a21978658e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/profile_row/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/profile_row/profile_row.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/profile_row/profile_row.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/form.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/form.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/nav/nav.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/nav/nav.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/button/button.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/button/button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/button/button.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/button/button.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/profile_row/profile_row.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/profile_row/profile_row.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/profile_row/profile_row.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/profile_row/profile_row.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/profile/profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/profile/profile.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/profile/profile.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/profile/profile.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711577118173</updated>
       <workItem from="1711914720509" duration="1011000" />
-      <workItem from="1711950711227" duration="14664000" />
+      <workItem from="1711950711227" duration="17501000" />
     </task>
     <task id="LOCAL-00001" summary="Create directory and files">
       <option name="closed" value="true" />
@@ -159,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711962537222</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Files changes">
+      <created>1711965578529</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1711965578529</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

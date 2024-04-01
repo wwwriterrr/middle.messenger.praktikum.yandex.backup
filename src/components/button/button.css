@@ -1,2 +1,4 @@
 .button{position: relative;height: 40px;background-color: transparent;border: 1px solid #e3e3e3;border-radius: 6px;}
 .button_action{background-color: var(--action-color);color: var(--action-font);border: 0;font-weight: 400;}
+.button_nofill{height: auto;padding: 2px 4px;background-color: transparent;color: var(--action-color);font-weight: 500;border: 0;}
+.button_red{color: var(--red-color);}
