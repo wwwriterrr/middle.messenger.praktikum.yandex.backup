@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14d788ec-b20b-4d7c-9025-b1a21978658e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/attach_modal/attach_modal.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/attach_modal/attach_modal.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/attach_modal/index.js" afterDir="false" />
+    <list default="true" id="14d788ec-b20b-4d7c-9025-b1a21978658e" name="Default Changelist" comment="Files changes">
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/button/button.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/button/button.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/message/message.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/message/message.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/message/message.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/message/message.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/chat/chat.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/chat/chat.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/chat/chat.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/chat/chat.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/profile/profile.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/profile/profile.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +61,7 @@
       <updated>1711577118173</updated>
       <workItem from="1711914720509" duration="1011000" />
       <workItem from="1711950711227" duration="34012000" />
-      <workItem from="1712035803408" duration="23731000" />
+      <workItem from="1712035803408" duration="28684000" />
     </task>
     <task id="LOCAL-00001" summary="Create directory and files">
       <option name="closed" value="true" />
@@ -274,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712053361471</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Files changes">
+      <created>1712064665276</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1712064665276</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
