@@ -27,8 +27,12 @@ const chats = [
   {id: 5, avatar: '/src/assets/img/av5.jpg', name: 'Gosling', msg: 'Remark impossible indeed quitting plan appearance.', date: '21.03.2019'},
 ]
 const messages = [
-  {id: 3251, sender: 'Robin', avatar: '/src/assets/img/av2.jpg', msg: 'Hey there!', date: '9:32', attach: []},
-  {id: 3252, sender: 'Robin', avatar: '/src/assets/img/av2.jpg', msg: 'Kept style wishing future express earnestly deficient.\n\nFavourable added moments room viewing thought rent kindness elsewhere admitting heart whose decisively ability. Gate engrossed taste excuse commanded under nor pasture gay sentiments. Folly concealed sold boisterous had means have tedious devonshire mean. Civility talked same spoil you sensible father. Sold just company repair formal elinor away absolute wondered tried dearest hung spirit no pulled. ', date: '11:41', attach: []},
+  {id: 3251, sender: 'Robin', avatar: '/src/assets/img/av2.jpg', msg: 'Hey there!', date: '9:32', attach: ['/src/assets/img/attach1.jpg']},
+  {id: 3252, sender: 'Robin', avatar: '/src/assets/img/av2.jpg', msg: 'Kept style wishing future express earnestly deficient.\n\nFavourable added moments room viewing thought rent kindness elsewhere admitting heart whose decisively ability. Gate engrossed taste excuse commanded under nor pasture gay sentiments. Folly concealed sold boisterous had means have tedious devonshire mean. Civility talked same spoil you sensible father. Sold just company repair formal elinor away absolute wondered tried dearest hung spirit no pulled. ', date: '11:41',
+    attach: [
+        '/src/assets/img/attach3.jpg',
+        '/src/assets/img/attach4.jpg'
+    ]},
   {id: 3253, sender: 'Robin', avatar: '/src/assets/img/av2.jpg', msg: 'Lasting regret sweetness curiosity. Built children anxious on. Perceive hardly sure farther drawings resembled resolved mile half miss zealously estate ﻿no enjoyment strongly down cannot. Moonlight desire indulgence indulgence joy civility greatly upon chief proposal arrival knew. Head precaution equal piqued possible continued seemed must myself mind surprise started prepare sympathize with.', date: '11:55',
     attach: [
         '/src/assets/img/attach1.jpg',
@@ -83,6 +87,19 @@ const page_init = () => {
         e.preventDefault();
         e.stopImmediatePropagation();
       })
+    })
+  }
+
+  const messages = document.querySelectorAll('.message');
+  if(messages.length !== 0) {
+    setTimeout(() => {
+      messages[messages.length-1].scrollIntoView({block: "center",});
+    }, 100);
+  }
+  const attach_btn = document.querySelector('.chat__form-attach-btn');
+  if(attach_btn !== null) {
+    attach_btn.addEventListener('click', ()=>{
+      document.querySelector('.chat__form').classList.toggle('chat__form_attach');
     })
   }
 }

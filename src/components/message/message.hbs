@@ -10,8 +10,10 @@
 </div>
 {{#if attach}}
 <div class="message-attach {{#if_eq sender 'self'}}message-attach_self{{/if_eq}}" data-message="{{id}}">
-    {{#each attach}}
-    <div class="message-attach__item"><img src="{{this}}" alt=""></div>
-    {{/each}}
+    <div class="message-attach__wrap" data-length="{{attach.length}}">
+        {{#each attach}}
+        <div class="message-attach__item"><img src="{{this}}" alt=""></div>
+        {{/each}}
+    </div>
 </div>
 {{/if}}

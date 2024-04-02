@@ -10,7 +10,17 @@
 .message__sender{font-weight: 400;}
 .message__date{font-size: .8em;opacity: .6;}
 .message__text{}
-.message-attach{position: relative;display: flex;flex-wrap: wrap;gap: 4px;margin: 0 0 6px 0;padding: 0 0 0 60px;max-width: 500px;}
-.message-attach::after{content: ""; flex-grow: 999;}
-.message-attach__item{position: relative;height: 140px;flex: 1 1 auto;}
-.message-attach__item img{position: relative;height: 100%;width: 100%;object-fit: cover;object-position: center;}
+.message-attach{position: relative;margin: 0 0 6px 0;padding: 0 0 0 60px;max-width: 500px;}
+.message-attach_self{}
+.message-attach__wrap{display: grid;grid-template-columns: 1fr 1fr 1fr;grid-gap: 4px; }
+.message-attach__wrap[data-length="1"]{grid-template-columns: 1fr;}
+.message-attach__wrap[data-length="2"]{grid-template-columns: 1fr 1fr;}
+.message-attach__item{position: relative;aspect-ratio: 1/1;}
+.message-attach__wrap[data-length="1"] .message-attach__item{aspect-ratio: auto;}
+.message-attach__wrap[data-length="2"] .message-attach__item{aspect-ratio: 4/3;}
+.message-attach__item img{position: relative;display: block;width: 100%;height: 100%;object-fit: cover;object-position: center;}
+
+.message_self + .message:not(.message_self),
+.message:not(.message_self) + .message_self,
+.message-attach + .message_self,
+.message-attach_self + .message:not(.message_self){margin-top: 20px;}

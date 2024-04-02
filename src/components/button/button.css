@@ -7,3 +7,6 @@
 .button-prof-left::before{content: url('/src/assets/img/profile.svg');display: inline-block;width: 14px;height: 14px;margin: 0 4px 0 0;}
 .button_hidden{display: none;}
 .button_normweight{font-weight: 400;}
+.button_photo::before{content: url('/src/assets/img/add_photo.svg');display: inline-block;width: 30px;height: 30px;}
+.button_file::before{content: url('/src/assets/img/add_file.svg');display: inline-block;width: 30px;height: 30px;}
+.button_location::before{content: url('/src/assets/img/add_location.svg');display: inline-block;width: 30px;height: 30px;}
