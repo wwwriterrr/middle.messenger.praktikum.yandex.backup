@@ -3,6 +3,14 @@ import * as Components from './components';
 import * as Pages from './pages';
 
 
+Handlebars.registerHelper('if_eq', function(a, b, opts) {
+    if (a == b) {
+        return opts.fn(this);
+    } else {
+        return opts.inverse(this);
+    }
+});
+
 const user_data = {
   nickname: 'Rocky',
   login: 'rocky',
@@ -23,10 +31,13 @@ const pages = {
   'registrate': [ Pages.RegPage ],
   'chat': [ Pages.ChatPage, {chats: chats} ],
   'profile': [ Pages.ProfilePage, user_data ],
-  'nav': [ Pages.NavigatePage, {pages: ['login', 'registrate', 'chat', 'profile', 'Change Password', 'Change Avatar']} ],
+  'nav': [ Pages.NavigatePage, {pages: ['login', 'registrate', 'chat', 'profile', 'Change Password', 'Change Avatar', 'Error 404', 'Error 50*']} ],
 
   'Change Password': [ Components.Modal, {title: 'Change password', content: Handlebars.compile(Pages.ModalChangePasswd)} ],
   'Change Avatar': [ Components.Modal, {title: 'Set avatar', content: Handlebars.compile(Pages.ModalChangeAvatar)} ],
+
+  'Error 404': [Pages.ErrorPage, {code: 404}],
+  'Error 50*': [Pages.ErrorPage, {code: 500}],
 };
 
 Object.entries(Components).forEach(([ name, component ]) => {

@@ -1,7 +1,7 @@
 .page__nav{position: relative;width: 100%;height: 100vh;display: flex;align-items: center;justify-content: center;background-color: #ffe300;}
 .nav{position: relative;width: 400px;padding: 20px;border: 10px solid #000;outline: 20px solid #000;outline-offset: 6px;}
 .nav__logo-wrap{display: flex;justify-content: center;}
-.nav__logo{width: 134px;}
+.nav__logo{width: 94px;}
 .nav__title{margin: 10px 0 20px 0;text-align: center;font-family: 'Pacifico', sans-serif;font-size: 3.5em;}
 .nav__list{display: flex;flex-direction: column;align-items: center;justify-content: center;gap: 20px;}
 .nav__list-li{}

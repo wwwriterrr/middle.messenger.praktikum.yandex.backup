@@ -5,18 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14d788ec-b20b-4d7c-9025-b1a21978658e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/img/close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/modals/modal_change_avatar/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/modals/modal_change_avatar/modal_change_avatar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/modals/modal_change_avatar/modal_change_avatar.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/error/error.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/error/error.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/error/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/button/button.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/button/button.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/input/input.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/input/input.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/modal/modal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/modal/modal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/modals/modal_change_passwd/modal_change_passwd.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/modals/modal_change_passwd/modal_change_passwd.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/modals/modal_change_passwd/modal_change_passwd.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/modals/modal_change_passwd/modal_change_passwd.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/nav/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/nav/nav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/profile/profile.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/profile/profile.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +62,7 @@
       <updated>1711577118173</updated>
       <workItem from="1711914720509" duration="1011000" />
       <workItem from="1711950711227" duration="34012000" />
-      <workItem from="1712035803408" duration="4711000" />
+      <workItem from="1712035803408" duration="9743000" />
     </task>
     <task id="LOCAL-00001" summary="Create directory and files">
       <option name="closed" value="true" />
@@ -231,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711988878430</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Files changes">
+      <created>1712040545268</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1712040545268</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
