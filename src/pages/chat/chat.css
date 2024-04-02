@@ -9,7 +9,7 @@
 .chats-list{display: flex;flex-direction: column; height: 100%;overflow: auto;padding: 0 14px 20px 14px;border-top: 1px solid var(--grey-color);}
 .chat__header{grid-area: header;position: relative;border-bottom: 1px solid var(--grey-color);}
 .chat__messages{grid-area: messages;position: relative;height: 100%;padding: 20px 40px 20px 40px;overflow: auto;}
-.chat__form-wrap{grid-area: form;position: relative;display: flex;justify-content: center; border-top: 1px solid var(--grey-color);}
+.chat__form-wrap{grid-area: form;position: relative;display: flex;justify-content: flex-start; border-top: 1px solid var(--grey-color);}
 .chat__form{position: relative;display: grid;grid-template: auto / 40px 40px 1fr 40px;align-items: center;grid-gap: 0 10px;
     padding: 10px 20px;width: 600px;}
 .chat__form-avatar-wrap{position: relative;aspect-ratio: 1/1;border-radius: 50%;overflow: hidden;}
