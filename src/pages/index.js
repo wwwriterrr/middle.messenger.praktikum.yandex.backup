@@ -4,3 +4,4 @@ export {RegPage} from './registrate';
 export {ProfilePage} from './profile';
 export {ChatPage} from './chat';
 export {ModalChangePasswd} from './modals/modal_change_passwd';
+export {ModalChangeAvatar} from './modals/modal_change_avatar';

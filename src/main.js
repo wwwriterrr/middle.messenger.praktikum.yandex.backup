@@ -23,9 +23,10 @@ const pages = {
   'registrate': [ Pages.RegPage ],
   'chat': [ Pages.ChatPage, {chats: chats} ],
   'profile': [ Pages.ProfilePage, user_data ],
-  'nav': [ Pages.NavigatePage, {pages: ['login', 'registrate', 'chat', 'profile', 'Change Password']} ],
+  'nav': [ Pages.NavigatePage, {pages: ['login', 'registrate', 'chat', 'profile', 'Change Password', 'Change Avatar']} ],
 
-  'Change Password': [ Components.Modal, {title: 'Change password', content: Pages.ModalChangePasswd} ],
+  'Change Password': [ Components.Modal, {title: 'Change password', content: Handlebars.compile(Pages.ModalChangePasswd)} ],
+  'Change Avatar': [ Components.Modal, {title: 'Set avatar', content: Handlebars.compile(Pages.ModalChangeAvatar)} ],
 };
 
 Object.entries(Components).forEach(([ name, component ]) => {
