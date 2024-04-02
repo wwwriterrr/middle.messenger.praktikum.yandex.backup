@@ -26,11 +26,25 @@ const chats = [
   {id: 4, avatar: '/src/assets/img/av4.jpg', name: 'Rastaman', msg: 'Ready attention inquietude must differed.', date: '10.01 2021'},
   {id: 5, avatar: '/src/assets/img/av5.jpg', name: 'Gosling', msg: 'Remark impossible indeed quitting plan appearance.', date: '21.03.2019'},
 ]
+const messages = [
+  {id: 3251, sender: 'Robin', avatar: '/src/assets/img/av2.jpg', msg: 'Hey there!', date: '9:32', attach: []},
+  {id: 3252, sender: 'Robin', avatar: '/src/assets/img/av2.jpg', msg: 'Kept style wishing future express earnestly deficient.\n\nFavourable added moments room viewing thought rent kindness elsewhere admitting heart whose decisively ability. Gate engrossed taste excuse commanded under nor pasture gay sentiments. Folly concealed sold boisterous had means have tedious devonshire mean. Civility talked same spoil you sensible father. Sold just company repair formal elinor away absolute wondered tried dearest hung spirit no pulled. ', date: '11:41', attach: []},
+  {id: 3253, sender: 'Robin', avatar: '/src/assets/img/av2.jpg', msg: 'Lasting regret sweetness curiosity. Built children anxious on. Perceive hardly sure farther drawings resembled resolved mile half miss zealously estate ﻿no enjoyment strongly down cannot. Moonlight desire indulgence indulgence joy civility greatly upon chief proposal arrival knew. Head precaution equal piqued possible continued seemed must myself mind surprise started prepare sympathize with.', date: '11:55',
+    attach: [
+        '/src/assets/img/attach1.jpg',
+        '/src/assets/img/attach2.jpg',
+        '/src/assets/img/attach3.jpg',
+        '/src/assets/img/attach4.jpg',
+        '/src/assets/img/attach5.jpg',
+    ]},
+  {id: 3254, sender: 'self', avatar: '/src/assets/img/batman.svg', msg: 'OK', date: '12:01', attach: []},
+  {id: 3255, sender: 'Robin', avatar: '/src/assets/img/av2.jpg', msg: 'Stuff sooner subjects indulgence forty child theirs unpleasing supported projecting certain.', date: '12:10', attach: []},
+]
 const display_pages = ['login', 'registrate', 'chat', 'profile', 'Change Password', 'Change Avatar', 'Error 404', 'Error 50*', 'Remember password', 'Remember password (authenticated)'];
 const pages = {
   'login': [ Pages.LoginPage ],
   'registrate': [ Pages.RegPage ],
-  'chat': [ Pages.ChatPage, {chats: chats} ],
+  'chat': [ Pages.ChatPage, {chats: chats, messages: messages} ],
   'profile': [ Pages.ProfilePage, user_data ],
   'nav': [ Pages.NavigatePage, {pages: display_pages} ],
 

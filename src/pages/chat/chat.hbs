@@ -14,7 +14,9 @@
         <!-- Chat info there -->
     </div>
     <div class="chat__messages">
-        <!-- messages there -->
+        {{#each messages}}
+        {{> Message this }}
+        {{/each}}
     </div>
     <div class="chat__form-wrap">
         <form class="chat__form">
