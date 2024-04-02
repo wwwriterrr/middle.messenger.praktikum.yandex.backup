@@ -6,3 +6,4 @@ export {ChatPage} from './chat';
 export {ErrorPage} from './error';
 export {ModalChangePasswd} from './modals/modal_change_passwd';
 export {ModalChangeAvatar} from './modals/modal_change_avatar';
+export {RememberPassword} from './remember_password';

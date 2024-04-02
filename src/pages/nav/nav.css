@@ -3,9 +3,9 @@
 .nav__logo-wrap{display: flex;justify-content: center;}
 .nav__logo{width: 94px;}
 .nav__title{margin: 10px 0 20px 0;text-align: center;font-family: 'Pacifico', sans-serif;font-size: 3.5em;}
-.nav__list{display: flex;flex-direction: column;align-items: center;justify-content: center;gap: 20px;}
-.nav__list-li{}
-.nav__list-a{display: flex;align-items: center;gap: 10px;color: #000;font-weight: 300;font-size: 2em;}
+.nav__list{display: flex;flex-direction: column;align-items: center;justify-content: center;gap: 24px;}
+.nav__list-li{line-height: 1.1em;font-size: 1.3em;text-align: center;}
+.nav__list-a{display: flex;align-items: center;gap: 10px;color: #000;font-weight: 300;}
 .nav__list-a::before,
 .nav__list-a::after{content: '';display: inline-block;width: 10px;height: 10px;background-color: #000;
     transform: rotate(45deg);opacity: 0;transition: all .3s ease-out;}
