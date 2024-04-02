@@ -26,7 +26,7 @@ const chats = [
   {id: 4, avatar: '/src/assets/img/av4.jpg', name: 'Rastaman', msg: 'Ready attention inquietude must differed.', date: '10.01 2021'},
   {id: 5, avatar: '/src/assets/img/av5.jpg', name: 'Gosling', msg: 'Remark impossible indeed quitting plan appearance.', date: '21.03.2019'},
 ]
-const display_pages = ['login', 'registrate', 'chat', 'profile', 'Change Password', 'Change Avatar', 'Error 404', 'Error 50*', 'Remember password', 'Remember password (authorized)'];
+const display_pages = ['login', 'registrate', 'chat', 'profile', 'Change Password', 'Change Avatar', 'Error 404', 'Error 50*', 'Remember password', 'Remember password (authenticated)'];
 const pages = {
   'login': [ Pages.LoginPage ],
   'registrate': [ Pages.RegPage ],
@@ -37,7 +37,7 @@ const pages = {
   'Change Password': [ Components.Modal, {title: 'Change password', content: Handlebars.compile(Pages.ModalChangePasswd)} ],
   'Change Avatar': [ Components.Modal, {title: 'Set avatar', content: Handlebars.compile(Pages.ModalChangeAvatar)} ],
   'Remember password': [ Pages.RememberPassword ],
-  'Remember password (authorized)': [Pages.RememberPassword, {authorized: true} ],
+  'Remember password (authenticated)': [Pages.RememberPassword, {is_authenticated: true} ],
 
   'Error 404': [Pages.ErrorPage, {code: 404}],
   'Error 50*': [Pages.ErrorPage, {code: 500}],
