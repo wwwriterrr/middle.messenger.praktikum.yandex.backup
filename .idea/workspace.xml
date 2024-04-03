@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="35f706f8-4486-4f5b-9903-cd1b7cf323a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/profile/profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/profile/profile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +28,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,7 +43,7 @@
       <updated>1712145953953</updated>
       <workItem from="1712145957528" duration="257000" />
       <workItem from="1712147132938" duration="785000" />
-      <workItem from="1712148315583" duration="2906000" />
+      <workItem from="1712148315583" duration="6834000" />
     </task>
     <task id="LOCAL-00001" summary="Vite config changed">
       <created>1712145993301</created>
@@ -123,7 +129,42 @@
       <option name="project" value="LOCAL" />
       <updated>1712151056504</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Files change">
+      <created>1712151228594</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712151228594</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Files change">
+      <created>1712155971639</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712155971639</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Files change">
+      <created>1712156175672</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712156175672</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Files change">
+      <created>1712156363591</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1712156363591</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Files change">
+      <created>1712156557314</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1712156557314</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
