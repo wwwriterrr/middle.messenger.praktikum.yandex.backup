@@ -5,12 +5,12 @@ export default defineConfig({
     base: './',
     publicDir: './src/assets/',
     build: {
-        outDir: 'dist',
+        outDir: 'dist/',
         port: 3000
     },
     server: {
         host: '0.0.0.0',
-        outDir: 'dist',
+        outDir: 'dist/',
         port: 3000,
         minify: 'esbuild',
     },

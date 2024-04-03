@@ -6,7 +6,34 @@
   <component name="ChangeListManager">
     <list default="true" id="14d788ec-b20b-4d7c-9025-b1a21978658e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fav-Cieep9F7.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index-BD0hsexq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index-CUDTnxtC.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/add_file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/add_location.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/add_photo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/attach1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/attach2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/attach3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/attach4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/attach5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/av1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/av2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/av3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/av4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/av5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/batman.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/error.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/mail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/mail1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/mail2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/mail3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/profile.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/send.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/wm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/src/assets/img/wm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +71,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist/src/assets/img" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist/src/assets/img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -58,7 +90,7 @@
       <workItem from="1711914720509" duration="1011000" />
       <workItem from="1711950711227" duration="34012000" />
       <workItem from="1712035803408" duration="28720000" />
-      <workItem from="1712122316572" duration="4017000" />
+      <workItem from="1712122316572" duration="5349000" />
     </task>
     <task id="LOCAL-00001" summary="Create directory and files">
       <option name="closed" value="true" />
@@ -329,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712124220416</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Files changes">
+      <created>1712126642045</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1712126642045</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
