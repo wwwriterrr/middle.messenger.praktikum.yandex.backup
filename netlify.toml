@@ -7,6 +7,10 @@
     to = "/"
     status = 200
 
+[[redirects]]
+    from = "/src/assets/img/wm.svg"
+    to = "/img/wm.svg"
+
 #[context.production]
 #  publish = "dist/"
 #  command = "npm run dev"

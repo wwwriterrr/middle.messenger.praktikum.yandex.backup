@@ -35,7 +35,7 @@
       <updated>1712145953953</updated>
       <workItem from="1712145957528" duration="257000" />
       <workItem from="1712147132938" duration="785000" />
-      <workItem from="1712148315583" duration="1355000" />
+      <workItem from="1712148315583" duration="1595000" />
     </task>
     <task id="LOCAL-00001" summary="Vite config changed">
       <created>1712145993301</created>
@@ -65,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712149513751</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Netlify config change">
+      <created>1712149678321</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712149678321</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
