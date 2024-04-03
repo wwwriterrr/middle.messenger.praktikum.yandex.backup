@@ -7,12 +7,6 @@
     to = "/img/wm.svg"
 
 [[redirects]]
-    from = "/src/assets/img/batman.svg"
-    to = "/img/batman.svg"
-    status = 200
-    force = true
-
-[[redirects]]
     from = "/src/assets/img/*"
     to = "/img/:splat"
 
