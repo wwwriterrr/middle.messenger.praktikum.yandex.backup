@@ -1,5 +1,5 @@
 :root{
-    --action-color: #225da3;
+    @if 3 < 5 { --action-color: #225da3; } @else { --action-color: red; }
     --blue-color: #0577ff;
     --grey-color: #e3e3e3;
     --action-font: #fff;
