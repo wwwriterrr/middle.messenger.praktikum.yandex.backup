@@ -3,7 +3,7 @@
     command = "npx vite build"
 
 [[redirects]]
-    from = "/src/assets"
+    from = "/src/assets/*"
     to = "/"
     status = 200
 

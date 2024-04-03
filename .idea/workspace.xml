@@ -35,7 +35,7 @@
       <updated>1712145953953</updated>
       <workItem from="1712145957528" duration="257000" />
       <workItem from="1712147132938" duration="785000" />
-      <workItem from="1712148315583" duration="1183000" />
+      <workItem from="1712148315583" duration="1355000" />
     </task>
     <task id="LOCAL-00001" summary="Vite config changed">
       <created>1712145993301</created>
@@ -58,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712149264306</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Netlify config change">
+      <created>1712149513751</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712149513751</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,6 +77,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Vite config changed" />
     <MESSAGE value="Files change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Files change" />
+    <MESSAGE value="Netlify config change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Netlify config change" />
   </component>
 </project>
