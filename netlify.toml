@@ -8,7 +8,7 @@
 
 [[redirects]]
     from = "/src/assets/img/*"
-    to = "/img/*"
+    to = "/img/:splat"
 
 #[context.production]
 #  publish = "dist/"
