@@ -5,9 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "vite --host",
-    "build": "vite build --host",
-    "preview": "vite preview",
+    "dev": "npx vite --host",
+    "build": "npx vite build",
+    "preview": "npx vite preview",
     "start": "node app.js"
   },
   "author": "wwwriterrr",
