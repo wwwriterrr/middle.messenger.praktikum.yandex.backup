@@ -6,6 +6,10 @@
     from = "/src/assets/img/wm.svg"
     to = "/img/wm.svg"
 
+[[redirects]]
+    from = "/src/assets/img/*"
+    to = "/img/*"
+
 #[context.production]
 #  publish = "dist/"
 #  command = "npm run dev"
