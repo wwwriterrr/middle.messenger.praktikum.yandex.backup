@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35f706f8-4486-4f5b-9903-cd1b7cf323a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/add_file.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/add_file.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/add_location.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/add_location.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/add_photo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/add_photo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/attach1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/attach1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/attach2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/attach2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/attach3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/attach3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/attach4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/attach4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/attach5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/attach5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/av1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/av1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/av2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/av2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/av3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/av3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/av4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/av4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/av5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/av5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/background.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/batman.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/batman.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/close.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/close.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/error.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/error.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/mail.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/mail.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/mail1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/mail1.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/mail2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/mail2.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/mail3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/mail3.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/profile.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/profile.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/send.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/send.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/wm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/wm.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/button/button.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/button/button.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/modal/modal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/modal/modal.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/chat/chat.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/chat/chat.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/chat/chat.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/chat/chat.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/error/error.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/error/error.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/nav/nav.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/nav/nav.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/profile/profile.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/profile/profile.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/remember_password/remember_password.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/remember_password/remember_password.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +25,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,7 +40,7 @@
       <updated>1712145953953</updated>
       <workItem from="1712145957528" duration="257000" />
       <workItem from="1712147132938" duration="785000" />
-      <workItem from="1712148315583" duration="4542000" />
+      <workItem from="1712148315583" duration="4723000" />
     </task>
     <task id="LOCAL-00001" summary="Vite config changed">
       <created>1712145993301</created>
@@ -160,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712151228594</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Files change">
+      <created>1712155971639</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712155971639</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
