@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35f706f8-4486-4f5b-9903-cd1b7cf323a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/node_modules/.bin/esbuild" beforeDir="false" afterPath="$PROJECT_DIR$/dist/node_modules/.bin/esbuild" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/node_modules/.bin/handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/dist/node_modules/.bin/handlebars" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/node_modules/.bin/mime" beforeDir="false" afterPath="$PROJECT_DIR$/dist/node_modules/.bin/mime" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/node_modules/.bin/nanoid" beforeDir="false" afterPath="$PROJECT_DIR$/dist/node_modules/.bin/nanoid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/node_modules/.bin/rollup" beforeDir="false" afterPath="$PROJECT_DIR$/dist/node_modules/.bin/rollup" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/node_modules/.bin/uglifyjs" beforeDir="false" afterPath="$PROJECT_DIR$/dist/node_modules/.bin/uglifyjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/node_modules/.bin/vite" beforeDir="false" afterPath="$PROJECT_DIR$/dist/node_modules/.bin/vite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/profile/profile.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/profile/profile.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +38,7 @@
       <updated>1712145953953</updated>
       <workItem from="1712145957528" duration="257000" />
       <workItem from="1712147132938" duration="785000" />
+      <workItem from="1712148315583" duration="584000" />
     </task>
     <task id="LOCAL-00001" summary="Vite config changed">
       <created>1712145993301</created>
