@@ -2,6 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35f706f8-4486-4f5b-9903-cd1b7cf323a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/fav-Cieep9F7.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index-BD0hsexq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index-CUDTnxtC.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/add_file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/add_location.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/add_photo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/attach1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/attach2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/attach3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/attach4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/attach5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/av1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/av2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/av3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/av4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/av5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/batman.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/error.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/mail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/mail1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/mail2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/mail3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/profile.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/send.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/wm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +63,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712145953953</updated>
-      <workItem from="1712145957528" duration="22000" />
+      <workItem from="1712145957528" duration="257000" />
     </task>
+    <task id="LOCAL-00001" summary="Vite config changed">
+      <created>1712145993301</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712145993301</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -42,5 +80,9 @@
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Vite config changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vite config changed" />
   </component>
 </project>
