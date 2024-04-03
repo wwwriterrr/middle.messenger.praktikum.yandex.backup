@@ -2,12 +2,12 @@
   publish = "dist/"
   command = "npx vite build"
 
-[context.production]
-  publish = "dist/"
-  command = "npm run dev"
+#[context.production]
+#  publish = "dist/"
+#  command = "npm run dev"
 
-[context.deploy-preview]
-  publish = "dist/"
+#[context.deploy-preview]
+#  publish = "dist/"
 
-[context.branch-deploy.environment]
-  NODE_ENV = "development"
+#[context.branch-deploy.environment]
+#  NODE_ENV = "development"
