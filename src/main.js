@@ -45,7 +45,7 @@ const messages = [
         '/src/assets/img/attach4.jpg',
         '/src/assets/img/attach5.jpg',
     ]},
-  {id: 3254, sender: 'self', avatar: '/src/assets/img/batman.svg', msg: 'OK', date: '12:01', attach: []},
+  {id: 3254, sender: 'self', avatar: '/src/assets/img/av1.jpg', msg: 'OK', date: '12:01', attach: []},
   {id: 3255, sender: 'Robin', avatar: '/src/assets/img/av2.jpg', msg: 'Stuff sooner subjects indulgence forty child theirs unpleasing supported projecting certain.', date: '12:10', attach: []},
 ]
 const display_pages = ['login', 'registrate', 'chat', 'profile', 'Change Password', 'Change Avatar', 'Error 404', 'Error 50*', 'Remember password', 'Remember password (authenticated)'];
