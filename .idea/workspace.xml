@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="35f706f8-4486-4f5b-9903-cd1b7cf323a8" name="Default Changelist" comment="">
+    <list default="true" id="14d788ec-b20b-4d7c-9025-b1a21978658e" name="Default Changelist" comment="Files changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,169 +15,330 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="ProjectId" id="2eac69BqLwRcNSApdeiiPAHJRaQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="wwwriterrr" />
+        <option name="repository" value="middle.messenger.praktikum.yandex" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="50643178-62ad-4451-b4d7-2be5baa90bb1" />
+        <option name="url" value="https://github.com/wwwriterrr/middle.messenger.praktikum.yandex.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="2eI18WOg1pNLbacUC3B2RJ3IYRH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public" />
-    </key>
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="35f706f8-4486-4f5b-9903-cd1b7cf323a8" name="Default Changelist" comment="" />
-      <created>1712145953953</created>
+      <changelist id="14d788ec-b20b-4d7c-9025-b1a21978658e" name="Default Changelist" comment="" />
+      <created>1711577118173</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1712145953953</updated>
-      <workItem from="1712145957528" duration="257000" />
-      <workItem from="1712147132938" duration="785000" />
-      <workItem from="1712148315583" duration="6834000" />
+      <updated>1711577118173</updated>
+      <workItem from="1711914720509" duration="1011000" />
+      <workItem from="1711950711227" duration="34012000" />
+      <workItem from="1712035803408" duration="28684000" />
     </task>
-    <task id="LOCAL-00001" summary="Vite config changed">
-      <created>1712145993301</created>
+    <task id="LOCAL-00001" summary="Create directory and files">
+      <option name="closed" value="true" />
+      <created>1711915152584</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1712145993301</updated>
+      <updated>1711915152584</updated>
     </task>
-    <task id="LOCAL-00002" summary="Files change">
-      <created>1712149002958</created>
+    <task id="LOCAL-00002" summary="Create directory and files">
+      <option name="closed" value="true" />
+      <created>1711915604558</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1712149002958</updated>
+      <updated>1711915604558</updated>
     </task>
-    <task id="LOCAL-00003" summary="Files change">
-      <created>1712149264306</created>
+    <task id="LOCAL-00003" summary="Create directory and files">
+      <option name="closed" value="true" />
+      <created>1711915713550</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1712149264306</updated>
+      <updated>1711915713550</updated>
     </task>
-    <task id="LOCAL-00004" summary="Netlify config change">
-      <created>1712149513751</created>
+    <task id="LOCAL-00004" summary="Create directory and files">
+      <created>1711951744824</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1712149513751</updated>
+      <updated>1711951744824</updated>
     </task>
-    <task id="LOCAL-00005" summary="Netlify config change">
-      <created>1712149678321</created>
+    <task id="LOCAL-00005" summary="Create directory and files">
+      <created>1711952606506</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1712149678321</updated>
+      <updated>1711952606506</updated>
     </task>
-    <task id="LOCAL-00006" summary="Netlify config change">
-      <created>1712149915613</created>
+    <task id="LOCAL-00006" summary="Create directory and files">
+      <created>1711953237729</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1712149915613</updated>
+      <updated>1711953237729</updated>
     </task>
-    <task id="LOCAL-00007" summary="Netlify config change">
-      <created>1712149928310</created>
+    <task id="LOCAL-00007" summary="Create directory and files">
+      <created>1711953675267</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1712149928310</updated>
+      <updated>1711953675267</updated>
     </task>
-    <task id="LOCAL-00008" summary="Netlify config change">
-      <created>1712150105554</created>
+    <task id="LOCAL-00008" summary="File changes">
+      <created>1711956266931</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1712150105554</updated>
+      <updated>1711956266931</updated>
     </task>
-    <task id="LOCAL-00009" summary="Netlify config change">
-      <created>1712150328524</created>
+    <task id="LOCAL-00009" summary="Files changes">
+      <created>1711957689091</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1712150328524</updated>
+      <updated>1711957689091</updated>
     </task>
-    <task id="LOCAL-00010" summary="Netlify config change">
-      <created>1712150488820</created>
+    <task id="LOCAL-00010" summary="Files changes">
+      <created>1711960535433</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1712150488820</updated>
+      <updated>1711960535433</updated>
     </task>
-    <task id="LOCAL-00011" summary="Netlify config change">
-      <created>1712150746635</created>
+    <task id="LOCAL-00011" summary="Files changes">
+      <created>1711961659338</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1712150746635</updated>
+      <updated>1711961659338</updated>
     </task>
-    <task id="LOCAL-00012" summary="Files change">
-      <created>1712151056504</created>
+    <task id="LOCAL-00012" summary="Files changes">
+      <created>1711962371111</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1712151056504</updated>
+      <updated>1711962371111</updated>
     </task>
-    <task id="LOCAL-00013" summary="Files change">
-      <created>1712151228594</created>
+    <task id="LOCAL-00013" summary="Files changes">
+      <created>1711962537222</created>
       <option name="number" value="00013" />
       <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1712151228594</updated>
+      <updated>1711962537222</updated>
     </task>
-    <task id="LOCAL-00014" summary="Files change">
-      <created>1712155971639</created>
+    <task id="LOCAL-00014" summary="Files changes">
+      <created>1711965578529</created>
       <option name="number" value="00014" />
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1712155971639</updated>
+      <updated>1711965578529</updated>
     </task>
-    <task id="LOCAL-00015" summary="Files change">
-      <created>1712156175672</created>
+    <task id="LOCAL-00015" summary="Files changes">
+      <created>1711972295509</created>
       <option name="number" value="00015" />
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
-      <updated>1712156175672</updated>
+      <updated>1711972295509</updated>
     </task>
-    <task id="LOCAL-00016" summary="Files change">
-      <created>1712156363591</created>
+    <task id="LOCAL-00016" summary="Files changes">
+      <created>1711972503843</created>
       <option name="number" value="00016" />
       <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1712156363591</updated>
+      <updated>1711972503843</updated>
     </task>
-    <task id="LOCAL-00017" summary="Files change">
-      <created>1712156557314</created>
+    <task id="LOCAL-00017" summary="Files changes">
+      <created>1711976831058</created>
       <option name="number" value="00017" />
       <option name="presentableId" value="LOCAL-00017" />
       <option name="project" value="LOCAL" />
-      <updated>1712156557314</updated>
+      <updated>1711976831058</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Files changes">
+      <created>1711979545774</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1711979545774</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Files changes">
+      <created>1711983836584</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1711983836585</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Files changes">
+      <created>1711985831678</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1711985831678</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Files changes">
+      <created>1711987100356</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1711987100356</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Files changes">
+      <created>1711987347561</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1711987347561</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Files changes">
+      <created>1711988878430</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1711988878430</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Files changes">
+      <created>1712040545268</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1712040545268</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Files changes">
+      <created>1712046054740</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1712046054741</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Files changes">
+      <created>1712046068605</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1712046068605</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Files changes">
+      <created>1712047513764</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1712047513764</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Files changes">
+      <created>1712049382887</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1712049382887</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Files changes">
+      <created>1712053361471</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1712053361471</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Files changes">
+      <created>1712064665276</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1712064665276</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Files changes">
+      <created>1712090227150</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1712090227150</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Files changes">
+      <created>1712090527208</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1712090527208</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Files changes">
+      <created>1712090652933</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1712090652933</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Files changes">
+      <created>1712091024829</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1712091024829</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Vite config changed" />
-    <MESSAGE value="Netlify config change" />
-    <MESSAGE value="Files change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Files change" />
+    <MESSAGE value="Create directory and files" />
+    <MESSAGE value="File changes" />
+    <MESSAGE value="Files changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Files changes" />
   </component>
 </project>
