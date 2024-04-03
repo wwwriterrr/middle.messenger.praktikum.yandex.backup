@@ -1,4 +1,7 @@
 # Yandex Praktikum Chat App 
-Проект является результатом работы, проведённой в ходе курса Middle FrontEnd от Яндекс.Практикум
+Проект является результатом работы, проведённой в ходе курса Middle FrontEnd от Яндекс.Практикум.
+
+На данном этапе параметры пользователя, чаты и сообщения в чате отдаются из переменных и используются исключительно для отображения всех элементов страниц.
+
 # Ссылка на Netlify
-<a href="https://zeusapp.netlify.app/" target="_blank">https://zeusapp.netlify.app/</a>
+<a href="https://zeusapp.netlify.app/" target="_blank">zeusapp.netlify.app/</a>
