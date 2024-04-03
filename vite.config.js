@@ -3,7 +3,7 @@ import { defineConfig } from 'vite';
 export default defineConfig({
     root: './',
     //base: './',
-    publicDir: './',
+    publicDir: './src/assets/',
     build: {
         outDir: './dist/',
         port: 3000

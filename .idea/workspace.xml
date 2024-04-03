@@ -2,36 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35f706f8-4486-4f5b-9903-cd1b7cf323a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/fav-Cieep9F7.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/index-BD0hsexq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/index-CUDTnxtC.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/add_file.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/add_location.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/add_photo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/attach1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/attach2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/attach3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/attach4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/attach5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/av1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/av2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/av3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/av4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/av5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/batman.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/close.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/error.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/mail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/mail1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/mail2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/mail3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/profile.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/send.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/wm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/node_modules/.bin/esbuild" beforeDir="false" afterPath="$PROJECT_DIR$/dist/node_modules/.bin/esbuild" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/node_modules/.bin/handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/dist/node_modules/.bin/handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/node_modules/.bin/mime" beforeDir="false" afterPath="$PROJECT_DIR$/dist/node_modules/.bin/mime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/node_modules/.bin/nanoid" beforeDir="false" afterPath="$PROJECT_DIR$/dist/node_modules/.bin/nanoid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/node_modules/.bin/rollup" beforeDir="false" afterPath="$PROJECT_DIR$/dist/node_modules/.bin/rollup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/node_modules/.bin/uglifyjs" beforeDir="false" afterPath="$PROJECT_DIR$/dist/node_modules/.bin/uglifyjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/node_modules/.bin/vite" beforeDir="false" afterPath="$PROJECT_DIR$/dist/node_modules/.bin/vite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712145953953</updated>
       <workItem from="1712145957528" duration="257000" />
+      <workItem from="1712147132938" duration="785000" />
     </task>
     <task id="LOCAL-00001" summary="Vite config changed">
       <created>1712145993301</created>
