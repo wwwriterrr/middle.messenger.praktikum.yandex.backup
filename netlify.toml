@@ -9,6 +9,8 @@
 [[redirects]]
     from = "/src/assets/img/batman.svg"
     to = "/img/batman.svg"
+    status = 200
+    force = true
 
 [[redirects]]
     from = "/src/assets/img/*"
