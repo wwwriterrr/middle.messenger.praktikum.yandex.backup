@@ -1,6 +1,7 @@
 $white: #fff;
 $dark: #000;
 $blue: #0577ff;
+$message_blue: #89bfff;
 $dark_blue: #225da3;
 $grey: #e3e3e3;
 $red: #a82b2b;
@@ -9,6 +10,7 @@ $main_font: 'Roboto', sans-serif;
 :root{
     --action-color: $dark_blue;
     --blue-color: $blue;
+    --message-blue-color: $message_blue;
     --grey-color: $grey;
     --action-font: $white;
     --red-color: $red;

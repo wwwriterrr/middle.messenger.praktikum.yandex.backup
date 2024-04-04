@@ -3,7 +3,8 @@
     &_action{background-color: var(--action-color);color: var(--action-font);border: 0;font-weight: 400;}
     &_nofill{height: auto;padding: 2px 4px;background-color: transparent;color: var(--action-color);font-weight: 500;border: 0;}
     &_red{color: var(--red-color);}
-    &-greytext{color: #444;}
+    &-greytext,
+    &_greytext{color: #444;}
     &_hidden{display: none;}
     &_normweight{font-weight: 400;}
 }
