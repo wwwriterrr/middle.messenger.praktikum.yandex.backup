@@ -1,4 +1,4 @@
-<p align="center"><img src="./public/wm.svg" alt="wm" width="200"/></p>
+<p align="center"><img src="./public/wm.svg" alt="wm" width="100"/></p>
 
 # Yandex Praktikum Chat App
 
