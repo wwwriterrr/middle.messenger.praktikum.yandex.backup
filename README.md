@@ -1,6 +1,6 @@
 <p align="center"><img src="./public/wm.svg" alt="wm" width="100"/></p>
 
-# Yandex Praktikum Chat App
+# <img src="./public/wm.svg" alt="wm" style="height: 30px;margin-right: 10px;" /> Yandex Praktikum Chat App
 
 Проект является результатом работы, проведённой в ходе первого спринта курса Middle FrontEnd от Яндекс.Практикум.
 
