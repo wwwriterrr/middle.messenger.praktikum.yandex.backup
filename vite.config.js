@@ -1,9 +1,9 @@
 import { defineConfig } from 'vite';
+import postcssNesting from 'postcss-nesting';
+import precss from "precss";
 
 export default defineConfig({
     root: './',
-    //base: './',
-    //publicDir: './src/assets/',
     build: {
         outDir: './dist/',
         port: 3000
@@ -13,5 +13,13 @@ export default defineConfig({
         outDir: './dist/',
         port: 3000,
         minify: 'esbuild',
+    },
+    css: {
+        postcss: {
+            plugins: [
+                postcssNesting,
+                precss
+            ],
+        },
     },
 })

@@ -8,7 +8,7 @@
     "dev": "npx vite --host",
     "build": "npx vite build",
     "preview": "npx vite preview",
-    "start": "node app.js"
+    "start": "npx vite build && npx vite --host"
   },
   "author": "wwwriterrr",
   "license": "ISC",
@@ -25,6 +25,8 @@
     "autoprefixer": "^10.4.19",
     "cssnext": "^1.8.5",
     "gulp-postcss": "^10.0.0",
+    "postcss-import": "^16.1.0",
+    "postcss-nesting": "^12.1.1",
     "precss": "^4.0.0"
   }
 }
