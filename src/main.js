@@ -57,7 +57,7 @@ const pages = {
   'nav': [ Pages.NavigatePage, {pages: display_pages} ],
 
   'Change Password': [ Components.Modal, {title: 'Change password', content: Handlebars.compile(Pages.ModalChangePasswd)} ],
-  'Change Avatar': [ Components.Modal, {title: 'Set avatar', content: Handlebars.compile(Pages.ModalChangeAvatar)} ],
+  'Change Avatar': [ Components.Modal, {title: 'Select new avatar', content: Handlebars.compile(Pages.ModalChangeAvatar)} ],
   'Remember password': [ Pages.RememberPassword ],
   'Remember password (authenticated)': [Pages.RememberPassword, {is_authenticated: true} ],
 
