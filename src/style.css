@@ -1,10 +1,18 @@
+$white: #fff;
+$dark: #000;
+$blue: #0577ff;
+$dark_blue: #225da3;
+$grey: #e3e3e3;
+$red: #a82b2b;
+$main_font: 'Roboto', sans-serif;
+
 :root{
-    --action-color: #225da3;
-    --blue-color: #0577ff;
-    --grey-color: #e3e3e3;
-    --action-font: #fff;
-    --red-color: #a82b2b;
-    --main-font: 'Roboto', sans-serif;
+    --action-color: $dark_blue;
+    --blue-color: $blue;
+    --grey-color: $grey;
+    --action-font: $white;
+    --red-color: $red;
+    --main-font: $main_font;
 }
 
 html{margin: 0;padding: 0;}

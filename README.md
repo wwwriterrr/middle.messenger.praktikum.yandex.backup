@@ -19,9 +19,10 @@
    - ```cd middle.messenger.praktikum.yandex.git```
 
 3. Команды:
-   - ```npm run build``` - сборка проекта с помощью Vite
-   - ```npm run start``` - запуск проекта
-   - ```npm run dev``` - запуск проекта в режиме разработки
+   - ```npm install``` - установка необходимых пакетов;
+   - ```npm run build``` - сборка проекта с помощью Vite;
+   - ```npm run start``` - запуск проекта;
+   - ```npm run dev``` - запуск проекта в режиме разработки;
 
 ## Ссылка на Netlify
 <a href="https://zeusapp.netlify.app/" target="_blank">zeusapp.netlify.app</a>

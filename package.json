@@ -8,12 +8,18 @@
     "dev": "npx vite --host",
     "build": "npx vite build",
     "preview": "npx vite preview",
-    "start": "node app.js"
+    "start": "npx vite build && npx vite --host"
   },
   "author": "wwwriterrr",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
+    "gulp": "^5.0.0",
+    "gulp-postcss": "^10.0.0",
+    "autoprefixer": "^10.4.19",
+    "postcss-import": "^16.1.0",
+    "postcss-nesting": "^12.1.1",
+    "precss": "^4.0.0",
     "handlebars": "^4.7.8",
     "typescript": "^5.4.3",
     "vite": "^5.2.7",
@@ -21,6 +27,6 @@
     "vite-plugin-handlebars": "^2.0.0"
   },
   "devDependencies": {
-    "gulp-postcss": "^10.0.0"
+    "cssnext": "^1.8.5"
   }
 }
