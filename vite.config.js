@@ -1,6 +1,7 @@
 import { defineConfig } from 'vite';
 import postcssNesting from 'postcss-nesting';
 import precss from "precss";
+import postcss_import from 'postcss-import';
 
 export default defineConfig({
     root: './',
@@ -18,7 +19,8 @@ export default defineConfig({
         postcss: {
             plugins: [
                 postcssNesting,
-                precss
+                precss,
+                postcss_import
             ],
         },
     },
